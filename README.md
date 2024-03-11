@@ -1,11 +1,10 @@
-### 👋 Hi there, I'm Jess Chen!
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=cycosad&color=fb4362" />
-</div>
+<h3>👋 Hi there, I'm Jess Chen!</h3>
+<img src="https://komarev.com/ghpvc/?username=cycosad&color=fb4362" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 
 ---
 
-###  I can do these things...
+<h3>I can do these things...</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo" />
   <img width="12" />
@@ -30,7 +29,7 @@
 
 ---
 
-### Blog
+<h3>Blog</h3>
 <ul>
   <li>
     <a href="https://www.jesseedgerunner.com">
@@ -41,16 +40,15 @@
 
 ---
 
-### My GitHub summary
+<h3>My GitHub summary</h3>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&card_width=1012&currStreakLabel=fb4362&hide_border=false" alt="herokuapp graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jess88tw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&card_width=503&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=503&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&card_width=420" alt="herokuapp graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jess88tw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=420" alt="stats graph" />
 </div>
 
 ---
 
-### If you find my sharing helpful, you can sponsor some cans of tuna for my kitties😉😉😉.
+<h3>If you find my sharing helpful, you can sponsor some cans of tuna for my kitties😉😉😉</h3>
 <div align="left">
   <a href="https://www.buymeacoffee.com/jess88tw" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
