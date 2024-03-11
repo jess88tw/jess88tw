@@ -42,8 +42,7 @@
 
 <h3>My GitHub summary</h3>
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&card_width=420" alt="herokuapp graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jess88tw&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&card_width=420" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&card_width=800" alt="herokuapp graph" />
 </div>
 
 ---
