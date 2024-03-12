@@ -2,8 +2,8 @@
 
 ###
 
-<img src="https://komarev.com/ghpvc/?username=cycosad&color=fb4362" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+<img src="https://komarev.com/ghpvc/?username=jess88tw&color=fb4362" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess88tw&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 
 ---
 
@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=cycosad&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&card_width=800" alt="herokuapp graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jess88tw&theme=dracula&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=false&card_width=800" alt="herokuapp graph" />
 </div>
 
 ---
