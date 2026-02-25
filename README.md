@@ -3,7 +3,6 @@
 ###
 
 <img src="https://komarev.com/ghpvc/?username=jess88tw&color=fb4362" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jess88tw&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 
 ---
 
